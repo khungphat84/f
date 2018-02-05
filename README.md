@@ -1,2 +1,2 @@
-# MADE-IN-JAPAN
+# end
 สคริปต้นฉบับ Herebird
